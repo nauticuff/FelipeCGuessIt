@@ -1,10 +1,12 @@
 ﻿/*
-Carlos Felipe Sales
-9-19-22
+Carlos Felipe
+10/19/22
 Mini Challenge #8 - Guess It
-My code creates a guessing game where the user guesses a number given the difficulty they chose. Each difficulty has a respective range in which to guess. There is replayability and data validation for ALL user inputs.
-Peer review: Brian Mallory - Works great and flow chart looks good.  Nice job finding bug in original version and fixing it.
-DONE
+This code asks the user to guess a number between a given range. The range is based off of difficulty.
+Easy is 0-10
+Medium is 0-50
+Hard is 0-100
+and custom lets the user set a custom range.
 */
 
 static void End()
