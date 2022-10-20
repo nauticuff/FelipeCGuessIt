@@ -8,4 +8,4 @@ Medium is 0-50
 Hard is 0-100
 and custom lets the user set a custom range.
 
-Peer review by :
+Peer review by : Marcel R. The program runs exceptionally well. The inclusion of functions, and data validation that makes you put the right input is really nice to see. The code and terminal layout were really nice for the eyes as well. Awesome work!
